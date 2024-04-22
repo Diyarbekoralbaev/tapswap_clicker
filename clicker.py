@@ -356,7 +356,7 @@ async def answer(event):
 Just a powerful clicker and non-stop bread 🚀
 
 
-💻 Author: `Abolfazl Poryaei`
+💻 Author: `Diyarbek Oralbaev`
 📊 Clicker stats: `{_clicker_stats}`
 ⏳ Uptime: `{_hours} hours and {_minutes} minutes`
 
@@ -371,7 +371,7 @@ To start Tapping , you can use the following commands:
 🟣 `/url` - WebApp Url
 
 
-Coded By: @uPaSKaL | GitHub: [Poryaei](https://github.com/Poryaei)
+Coded By: @Diyarbek_Dev | GitHub: [Diyarbek](https://github.com/Diyarbekoralbaev)
 
                           """)
         
